@@ -3,3 +3,5 @@ Couple Team of Computer Graphics subjects about Drawing any picture in a theme o
 
 ### The programming results are as follows:
 ![DailyInspiration](https://user-images.githubusercontent.com/89298632/167252425-52dfbfee-44da-4167-bcb5-41a890b7f3ac.png)
+
+Note: a complete picture is on the "Issues" menu.
